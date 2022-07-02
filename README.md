@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RezendDyr/RezendDyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="Rezende-pic" height="200" style="border-radius:100px;" src="https://i.pinimg.com/736x/2c/80/b6/2c80b65248c6e6e1552f694fd1631adb.jpg">
+</div>
