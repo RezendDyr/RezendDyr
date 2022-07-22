@@ -29,6 +29,6 @@
   <div>
   https://github.com/Mescolin <div>
   https://github.com/GabrielRavaglia <div>
-  https://github.com/GabrielRavaglia <div>
+  https://github.com/Rezenddyr <div>
   https://github.com/mylla42
   <img align="right" alt="Rafa-pic" height="250" style="border-radius:20px;" src="https://github.com/Rezenddyr/logo-equipe/blob/main/Logo%20Grupo.png?raw=true">
