@@ -21,3 +21,10 @@
   </div> 
   
   <a href="https://www.instagram.com/lucas_rezendd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  ### EQUIPE PROJETO RIO POMBA VALLEY:
+  <div>
+  https://github.com/Mescolin <div>
+  https://github.com/GabrielRavaglia <div>
+  https://github.com/GabrielRavaglia <div>
+  https://github.com/mylla42
+  <img align="right" alt="Rafa-pic" height="250" style="border-radius:20px;" src="https://github.com/Rezenddyr/logo-equipe/blob/main/Logo%20Grupo.png?raw=true">
