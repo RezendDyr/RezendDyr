@@ -31,5 +31,5 @@
   https://github.com/Gabriel-Pavao <div>
   https://github.com/GabrielRavaglia <div>
   https://github.com/Rezenddyr <div>
-  https://github.com/mylla42
-  <img align="right" alt="Rafa-pic" height="250" style="border-radius:20px;" src="https://github.com/Rezenddyr/logo-equipe/blob/main/Logo%20Grupo.png?raw=true">
+  https://github.com/mylla42 <div>
+  <img align="left" alt="Rafa-pic" height="250" style="border-radius:20px;" src="https://github.com/Rezenddyr/logo-equipe/blob/main/Logo%20Grupo.png?raw=true">
