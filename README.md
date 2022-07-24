@@ -28,6 +28,7 @@
 ## EQUIPE PROJETO RIO POMBA VALLEY:
   <div>
   https://github.com/Mescolin <div>
+  https://github.com/Gabriel-Pavao <div>
   https://github.com/GabrielRavaglia <div>
   https://github.com/Rezenddyr <div>
   https://github.com/mylla42
